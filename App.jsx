@@ -1,0 +1,1 @@
+export default function App(){return <div>PilateandoConAgos App</div>;}
